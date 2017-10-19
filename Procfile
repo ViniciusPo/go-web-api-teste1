@@ -1,1 +1,1 @@
-go run *.go
+web : web-api-go
